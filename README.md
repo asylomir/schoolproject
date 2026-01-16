@@ -15,5 +15,10 @@ https://github.com/asylomir/schoolproject.git
 Technologies Used:
 HTML, CSS, Google Maps API
 
+Snippets:
+![2B718CD8-F980-4EB2-A85A-08A14A5A6C90](https://github.com/user-attachments/assets/e324fafa-b420-4a4b-bf7d-36013d9b4374)
+
+![FB56BF2D-E567-4F45-8FC3-DE59694BEDEE](https://github.com/user-attachments/assets/7b13c8fb-39da-4ae4-9b74-9701d7740eb1)
+
 Contact:
 For questions or suggestions, contact Assyl Umirova at umirova1501@gmail.com.
